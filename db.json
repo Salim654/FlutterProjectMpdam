@@ -1,0 +1,150 @@
+{
+  "semestres": [
+    {
+      "numero": 1,
+      "modules": [
+        {
+          "nom": "Introduction à l'informatique",
+          "matieres": [
+            {
+              "nom": "Algorithmique",
+              "coefficient": 2,
+              "credit": 3
+            },
+            {
+              "nom": "Programmation",
+              "coefficient": 3,
+              "credit": 4
+            },
+            {
+              "nom": "Bases de données",
+              "coefficient": 2,
+              "credit": 3
+            }
+          ]
+        },
+        {
+          "nom": "Mathématiques",
+          "matieres": [
+            {
+              "nom": "Algèbre",
+              "coefficient": 2,
+              "credit": 3
+            },
+            {
+              "nom": "Analyse",
+              "coefficient": 2,
+              "credit": 3
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "numero": 2,
+      "modules": [
+        {
+          "nom": "Structures de données",
+          "matieres": [
+            {
+              "nom": "Listes chaînées",
+              "coefficient": 2,
+              "credit": 3
+            },
+            {
+              "nom": "Arbres",
+              "coefficient": 2,
+              "credit": 3
+            },
+            {
+              "nom": "Graphes",
+              "coefficient": 2,
+              "credit": 3
+            }
+          ]
+        },
+        {
+          "nom": "Systèmes d'exploitation",
+          "matieres": [
+            {
+              "nom": "Linux",
+              "coefficient": 2,
+              "credit": 3
+            },
+            {
+              "nom": "Windows",
+              "coefficient": 2,
+              "credit": 3
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "numero": 3,
+      "modules": [
+        {
+          "nom": "Réseaux",
+          "matieres": [
+            {
+              "nom": "Protocoles",
+              "coefficient": 2,
+              "credit": 3
+            },
+            {
+              "nom": "Sécurité",
+              "coefficient": 2,
+              "credit": 3
+            },
+            {
+              "nom": "Administration",
+              "coefficient": 2,
+              "credit": 3
+            }
+          ]
+        },
+        {
+          "nom": "Langages et compilation",
+          "matieres": [
+            {
+              "nom": "Compilateurs",
+              "coefficient": 2,
+              "credit": 3
+            },
+            {
+              "nom": "Langages de programmation",
+              "coefficient": 2,
+              "credit": 3
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "numero": 4,
+      "modules": [
+        {
+          "nom": "Projet de fin d'études",
+          "matieres": [
+            {
+              "nom": "Conception",
+              "coefficient": 4,
+              "credit": 6
+            },
+            {
+              "nom": "Développement",
+              "coefficient": 4,
+              "credit": 6
+            },
+            {
+              "nom": "Rédaction de rapport",
+              "coefficient": 2,
+              "credit": 3
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
+
